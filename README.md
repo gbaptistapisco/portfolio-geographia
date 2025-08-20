@@ -23,13 +23,11 @@ This repository gathers selected works, research projects, and resources related
 
 ---
 
-## 🔎 Featured Topics  
-- Rural depopulation and demographic dynamics  
-- Spatial planning and regional development  
-- GIS-based cartography and data visualization  
-- Environmental and social geography  
-- Science communication & humanist essays  
-
+- 🏡 Rural Depopulation & Demographic Dynamics
+- 🗺️ Spatial Planning & Regional Development
+- 📊 GIS-Based Cartography & Data Visualization
+- 🌍 Environmental & Social Geography
+- ✍️ Science Communication & Humanistic Essays
 ---
 
 ## 🛠️ Tools & Skills  
