@@ -28,7 +28,7 @@ This repository gathers selected works, research projects, and resources related
 - Spatial planning and regional development  
 - GIS-based cartography and data visualization  
 - Environmental and social geography  
-- Science communication & critical essays  
+- Science communication & humanist essays  
 
 ---
 
